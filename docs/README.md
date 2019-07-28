@@ -12,7 +12,7 @@
     </a>
 </p>
 
-## 概述
+## 概述 测试分子提交
 
 **使用Electron开发一套记账软件，几乎每一个实现都会有一片博文说明。**
 
@@ -23,9 +23,8 @@ macOS用户请下载最新版本的`dmg`文件，windows用户请下载最新版
 
 点击此处下载[应用](https://github.com/hilanmiao/LanMiaoDesktop/releases)。
 
-安装完毕，点击此处[尝试打开](PocketBook:?a=1&b=2)。
+安装并运行过一次之后，可以点击此处[尝试打开](PocketBook:?a=1&b=2)（github的markdown不认这个链接，可以直接在浏览器地址栏中输入：PocketBook:?a=1&b=2）。
 
-[PocketBook:?a=1&b=2](PocketBook:?a=1&b=2 "PocketBook:?a=1&b=2")
 
 ## 应用截图
 
